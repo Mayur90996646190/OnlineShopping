@@ -1,0 +1,13 @@
+Buid pipeline plugin
+command Agent Launcher plugin
+External moniter job type plugin
+Github branch source plugin
+Github integration plugin
+Gradle Plugin
+LDAP Email Plugin
+Maven integration plugin
+Oracle java Se developement kit installer plugin
+Pipeline
+Pipeline github groovy Libraries 
+Pipeline: Stage View Plugin
+SSH Build Agents plugin
